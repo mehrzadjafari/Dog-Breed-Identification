@@ -7,7 +7,7 @@
 |    Mehrzad Jafari Ranjbar     |    1937944    |
 |          Marco Muscas         |    xxxxxxx    |
 |        Giovanni Giunta        |    1177327    |
-|        Francesco Lauro        |    xxxxxxx    |
+|        Francesco Lauro        |    1706784    |
 | Shokoufeh Mansourihafshejani  |    xxxxxxx    |
 
 
